@@ -1,16 +1,4 @@
 # wmt_ui_sample
+A flutter app that displays simple UI design.
+![flutter6](https://user-images.githubusercontent.com/72406927/205427386-79293656-3340-4cba-99c1-414d68483589.PNG)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
